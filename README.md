@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Prajwal!
 
-<!--
-**Prajwal071/Prajwal071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Java Developer | Backend Engineer  
 
-Here are some ideas to get you started:
+I'm a passionate **Java Developer** with expertise in building scalable and robust applications using modern Java technologies. I love writing clean, maintainable code and constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, HTML, CSS  
+- **Backend:** Core Java, Advanced Java, JDBC, Spring Boot, Spring, Spring MVC  
+- **Database:** Spring Data JPA, MySQL  
+- **Security:** Basic Spring Security  
+- **Version Control:** Git, GitHub  
+- **Other Tools:** Maven, REST APIs  
+
+## 📌 Projects  
+Here are some of my noteworthy projects:
+- 📘 **Book Store Management System** (Spring Boot, JPA, MySQL)  
+- 🏪 **Library Management System** (Spring Boot, Spring Security , Spring Data Jpa , MySql)  
+
+
+## 📫 Connect With Me  
+🔗 **GitHub:** [github.com/Prajwal071](https://github.com/Prajwal071)  
+💼 **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/prajwal-deshmukh-171600285)  
+
+---
+
+💡 _"Strive for progress, not perfection."_  
+🔥 Open to collaboration & new opportunities!
